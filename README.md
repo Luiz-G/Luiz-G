@@ -5,13 +5,7 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Luiz-G&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-G&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>  
-  <div style="display: inline_block"><br>
-  ## <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  ## <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  ## <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-  ## <img align="center" alt="Luiz-Csharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  ## <img align="center" alt="Luiz-Csharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  
+  <div style="display: inline_block"><br>  
  ##
   
 <div> 
